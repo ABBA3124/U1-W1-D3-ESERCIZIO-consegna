@@ -21,10 +21,11 @@
 }
 
 .descrizione-articolo-immagine {
-    display: block;
+    
     text-align: center;
 }
 .immagine-focaccia{
+    width: 100%;
     border-radius: 3%;
 }
 .futuredin{
@@ -36,12 +37,16 @@
 }
 .marginleft{
   margin: 0 auto;
-  max-width: 38%;
   height: auto;
 }
 .mettiamorigasotto{
-    display: block;
     border-bottom: 1px solid #07bce998;
     padding-bottom: 20px;
     height: auto;
+}
+.colonna{
+    display: block;
+    margin: 0%;
+    max-width: 38%;
+    margin: auto;
 }

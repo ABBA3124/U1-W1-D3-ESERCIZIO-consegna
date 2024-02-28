@@ -1,0 +1,47 @@
+.logoinalto {
+  display: block;
+  margin: 0 auto;
+  max-width: 10%;
+  height: auto;
+}
+.sottoheader {
+    block-size: auto;
+    text-align: center;
+    font-size: 1.0em;
+    padding: 10px; /* Dimensione padding */
+    color: rgb(69, 124, 96);
+    background-color: #faec2a1a; 
+    border-top: 2px solid #ffcb20dc; /* Colore linea sopra testo */
+}
+.titolopagina h1 {
+    text-align: center; 
+    font-weight: bold;
+    font-family: 'Arial', sans-serif; 
+    font-size: 24px; 
+}
+
+.descrizione-articolo-immagine {
+    display: block;
+    text-align: center;
+}
+.immagine-focaccia{
+    border-radius: 3%;
+}
+.futuredin{
+    display: block;
+    border-left: 2px solid #fde400;
+    padding-left: 10px;
+    color: rgb(212, 42, 42);
+    font-weight: bold;
+}
+.marginleft{
+  margin: 0 auto;
+  max-width: 38%;
+  height: auto;
+}
+.mettiamorigasotto{
+    display: block;
+    border-bottom: 1px solid #07bce998;
+    padding-bottom: 20px;
+    height: auto;
+}
